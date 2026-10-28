@@ -1,0 +1,20 @@
+Name: Model
+Type: ModelCategoryFolder
+Children:
+- File: Publisher/Publisher.yaml
+- File: Suscriber/Suscriber.yaml
+- Name: Nivel1
+  Type: BaseDataVariableType
+  DataType: Float
+- Name: Nivel2
+  Type: BaseDataVariableType
+  DataType: Float
+- Name: ph1
+  Type: BaseDataVariableType
+  DataType: Float
+- Name: ph2
+  Type: BaseDataVariableType
+  DataType: Float
+- Name: Bomba
+  Type: BaseDataVariableType
+  DataType: Float

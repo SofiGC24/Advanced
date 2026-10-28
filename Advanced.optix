@@ -1,0 +1,73 @@
+Project:
+ Name: Advanced
+ GUID: da732e825937d17b002712be05425c9e
+ ProjectNamespaceIndex: 7
+ DisplayName: ''
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ ProductVersion: 1.8
+ CoreVersion: 5.0
+ Dependencies:
+  2:
+   Uri: 'urn:FTOptix:CoreBase'
+   Module: FTOptix.CoreBase
+   Version: 6.1
+  3:
+   Uri: 'urn:FTOptix:UI'
+   Module: FTOptix.UI
+   Version: 22.0
+  4:
+   Uri: 'urn:FTOptix:HMIProject'
+   Module: FTOptix.HMIProject
+   Version: 11.0
+  5:
+   Uri: 'urn:FTOptix:NativeUI'
+   Module: FTOptix.NativeUI
+   Version: 3.3
+  6:
+   Uri: 'urn:FTOptix:Retentivity'
+   Module: FTOptix.Retentivity
+   Version: 2.0
+  8:
+   Uri: 'urn:FTOptix:DataLogger'
+   Module: FTOptix.DataLogger
+   Version: 2.0
+  9:
+   Uri: 'urn:FTOptix:EventLogger'
+   Module: FTOptix.EventLogger
+   Version: 2.1
+  10:
+   Uri: 'urn:FTOptix:MQTTClient'
+   Module: FTOptix.MQTTClient
+   Version: 9.0
+  11:
+   Uri: 'urn:FTOptix:MQTTBroker'
+   Module: FTOptix.MQTTBroker
+   Version: 6.0
+  12:
+   Uri: 'urn:FTOptix:Store'
+   Module: FTOptix.Store
+   Version: 2.0
+  13:
+   Uri: 'urn:FTOptix:InfluxDBStore'
+   Module: FTOptix.InfluxDBStore
+   Version: 4.0
+  14:
+   Uri: 'urn:FTOptix:InfluxDBStoreRemote'
+   Module: FTOptix.InfluxDBStoreRemote
+   Version: 1.0
+ Statistics:
+  TotalNodeCount: 724
+  Objects: 157
+  ObjectTypes: 3
+  Variables: 564
+  VariableTypes: 0
+  DataTypes: 0
+  Methods: 0
+  References: 29
+  ReferenceTypes: 0
+  Files: 27
+ Nodes:
+ - File: Nodes/Advanced.yaml
